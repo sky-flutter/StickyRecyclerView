@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StickyRecyclerView</string>
+    <string name="viewpager_1">ViewPager 1</string>
+    <string name="viewpager_2">ViewPager 2</string>
+    <string name="recyclerview_1">RecyclerView 1</string>
+    <string name="recyclerview_2">"RecyclerView 2 "</string>
+    <string name="recyclerview_3">RecyclerView 3</string>
+    <string name="viewpager_3">ViewPager 3</string>
+    <string name="viewpager_4">ViewPager 4</string>
+</resources>
