@@ -7,4 +7,13 @@
     <string name="recyclerview_3">RecyclerView 3</string>
     <string name="viewpager_3">ViewPager 3</string>
     <string name="viewpager_4">ViewPager 4</string>
+    <string name="str">\uf0f3</string>
+    <string name="claim">CLAIM</string>
+    <string name="breakfast_combo">Breakfast Combo</string>
+    <string name="_200_rs_only"><![CDATA[
+    \@
+    ]]> 200 Rs. only</string>
+    <string name="you_have_claimed">You have claimed</string>
+    <string name="offer_valid_till_14th_april_2020">Offer valid till 14th April 2020</string>
+    <string name="offer_added_to_your_account">Offer added to \n your account</string>
 </resources>

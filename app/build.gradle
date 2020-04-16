@@ -26,7 +26,7 @@ android {
         sourceCompatibility = 1.8
         targetCompatibility = 1.8
     }
-    kotlinOptions{
+    kotlinOptions {
         jvmTarget = 1.8
     }
 
